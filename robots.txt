@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eastvalerestoration.com/sitemap.xml
